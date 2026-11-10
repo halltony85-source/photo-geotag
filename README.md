@@ -17,7 +17,7 @@ In Claude Code:
 
 ```
 /plugin marketplace add clickflame/photo-geotag
-/plugin install photo-geotag@clickflame
+/plugin install photo-geotag@clickflame-photo-geotag
 ```
 
 Or copy the skill by hand:
