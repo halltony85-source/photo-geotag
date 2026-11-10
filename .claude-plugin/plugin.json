@@ -1,0 +1,7 @@
+{
+  "name": "photo-geotag",
+  "description": "Write GPS and photographer credit into JPEG, PNG and WebP files without re-encoding",
+  "version": "1.0.0",
+  "author": { "name": "Clickflame", "url": "https://clickflame.com" },
+  "license": "MIT"
+}

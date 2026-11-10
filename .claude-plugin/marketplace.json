@@ -1,0 +1,11 @@
+{
+  "name": "clickflame",
+  "owner": { "name": "Clickflame", "url": "https://clickflame.com" },
+  "plugins": [
+    {
+      "name": "photo-geotag",
+      "source": "./",
+      "description": "Write GPS and photographer credit into JPEG, PNG and WebP files without re-encoding"
+    }
+  ]
+}
